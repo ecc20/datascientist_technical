@@ -6,6 +6,6 @@ The code should be able to make a prediction on the dataset Auto Insurance based
 
 https://www.kaggle.com/c/auto-insurance-fall-2017
 
-The data can be found in this repository
+The target for this project is TARGET_FLAG and this is a binary classification problem.
 
-The target for this project is TARGET_FLAG
+Please run the cells of the notebook in order
